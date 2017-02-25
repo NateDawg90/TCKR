@@ -34,32 +34,27 @@ MVP Checklist Format
 
 ## Hosting on Heroku
 
-## Artist page
+## Lobby
 * Adequate styling
 * Smooth, bug-free navigation
 * Adequate and appropriate seeds to demonstrate the feature
 
-## Song player
-* Adequate styling
-* Smooth, bug-free navigation
-* Adequate and appropriate seeds to demonstrate the feature
+## Tournaments
+* Bullet point
+* Bullet point
+* Bullet point
 
-## Search
-* Adequate styling
-* Smooth, bug-free navigation
-* Adequate and appropriate seeds to demonstrate the feature
+## Search for stocks
+* Bullet point
+* Bullet point
+* Bullet point
 
-## Follows
-* Adequate styling
-* Smooth, bug-free navigation
-* Adequate and appropriate seeds to demonstrate the feature
+## Articles
+* Bullet point
+* Bullet point
+* Bullet point
 
-## Bonus: Upload/download songs
-* Adequate styling
-* Smooth, bug-free navigation
-* Adequate and appropriate seeds to demonstrate the feature
-
-## Bonus: Purchase songs
-* Adequate styling
-* Smooth, bug-free navigation
-* Adequate and appropriate seeds to demonstrate the feature
+## Bonus:
+* Bullet point
+* Bullet point
+* Bullet point
