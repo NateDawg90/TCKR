@@ -1,18 +1,16 @@
 # Development README
 
-This is an app designed to combine fantasy sports with the stock market. It will feature themed tournaments allowing users to bet on a lienup of 8 stocks to perform well for a specified length of time. They will compete against other users in tournaments where each user will pay an entry fee and have a chance to win big.
+This is an app designed to combine fantasy sports with the stock market. It will feature themed tournaments allowing users to bet on a lineup of 8 stocks to perform well for a specified length of time. They will compete against other users in tournaments where each user will pay an entry fee and have a chance to win big.
 
 Planned features:
 
-* Tournaments with different themes (S&P500, tech stocks, etc.)
+* Tournaments with different themes (S&P500, Nasdaq, NYSE, etc.)
 
 * User Authentication with email, username, and password
 
 * Ability to pick a lineup of 8 stocks for each tournament
 
 * Stock info and articles
-
-*
 
 #Links:
 
@@ -26,8 +24,6 @@ Planned features:
 
 # Minimum Viable Product
 
-Make sure outline your MVP features using the following structure when writing your Full-Stack Project Proposal. "Feature 1" through "Feature 4" should be replaced with your app's four key features. Required features for clones from our list of recommendations can be found below. For clones not included on the list, please check in with your TA mentor to clarify the app's key features.
-
 MVP Checklist Format
 
 ## New account creation, login, and guest/demo login
@@ -35,26 +31,30 @@ MVP Checklist Format
 ## Hosting on Heroku
 
 ## Lobby
-* Adequate styling
-* Smooth, bug-free navigation
+* Has a navbar with account info and search bar
+* Tournament info
+* Stock articles
 * Adequate and appropriate seeds to demonstrate the feature
 
 ## Tournaments
-* Bullet point
+* Create, Destroy, index, show
+* Seeds for Dow, Nasdaq, S&P, NYSE
+* Each user has to put money on tournament to enter
+* The user with the highest cumulative percent at the end of the period wins 95% of the pot, TCKR takes 5%
+
+## Stocks
+* Create, Destroy, index, show
+* Shows symbol, industry, stock price, percent change
+
+## Articles
+* Popular and recent articles from stocks in user's lineups if logged in
 * Bullet point
 * Bullet point
 
 ## Search for stocks
-* Bullet point
-* Bullet point
-* Bullet point
-
-## Articles
-* Bullet point
-* Bullet point
-* Bullet point
+* dropdown bar with autofill
+* Clicking on a stock will bring up an info page for that stock
 
 ## Bonus:
-* Bullet point
-* Bullet point
-* Bullet point
+* ?
+* ?
